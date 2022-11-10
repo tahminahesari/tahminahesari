@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/oGzjIlg.jpg" height="500px" width="423px">
+<img src="https://i.imgur.com/vS1cPn1.jpg>
 
 Welcome to my github 🦋
 
