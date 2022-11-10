@@ -1,5 +1,5 @@
 
-<img src="https://bla bla">
+<img src="https://i.imgur.com/wEHsQ7T.jpg">
 
 ### - 🌱 I’m currently learning Cypress
 
