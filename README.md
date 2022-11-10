@@ -1,5 +1,8 @@
 
-<img src="https://i.imgur.com/wEHsQ7T.jpg">
+<img src="https://imgur.com/a/0kodPTa"> 
+
+Welcome to my github 🫶
+
 
 ### - 🌱 I’m currently learning Cypress
 
