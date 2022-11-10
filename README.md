@@ -1,7 +1,7 @@
 
-<img src="https://imgur.com/a/0kodPTa"> 
+<img src="[https://imgur.com/a/0kodPTa](https://imgur.com/a/0kodPTa)"> 
 
-Welcome to my github 🫶
+Welcome to my github 🦋
 
 
 ### - 🌱 I’m currently learning Cypress
