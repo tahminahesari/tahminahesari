@@ -3,7 +3,7 @@
 
 # Welcome to my github 🦋
 
-### Hi, 
+### 
 ### 
 ### - 🌱 I’m currently learning Cypress
 
