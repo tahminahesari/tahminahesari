@@ -3,7 +3,6 @@
 
 # Welcome to my github 🦋
 
-Happy to see you here!
 Hi, my name is Tahmina and I live in The Netherlands. 
 I have studied Frontend Developer at Novi Hogeschool and got my certification for Frontend Developer, and this summer I studied for ISTQB. And I got my ISTQB Certified Tester Foundation Level certificate. I want to develop myself and be better at what I’m doing everyday. 
 Right now I am looking for a job as a Test Engineer/ Test Automation Engineer 👩‍💻
