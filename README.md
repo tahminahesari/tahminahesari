@@ -1,7 +1,8 @@
 
 <img src="https://i.imgur.com/vS1cPn1.jpg">
 
- Hi, my name is Tahmina  
+# Welcome to my github 🌸
+
 
 - 🇳🇱 I live near Tilburg, The Netherlands
 - 👩🏽‍🎓 I have completed the Frontend Developer Bootcamp at Novi Hogeschool
