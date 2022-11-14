@@ -1,15 +1,15 @@
 
 <img src="https://i.imgur.com/vS1cPn1.jpg">
 
-# Welcome to my github 🦋
+ Hi, my name is Tahmina  
 
-Hi, my name is Tahmina and I live in The Netherlands. 
-I have studied Frontend Developer at Novi Hogeschool and got my certification for Frontend Developer, and this summer I studied for ISTQB. And I got my ISTQB Certified Tester Foundation Level certificate. I want to develop myself and be better at what I’m doing everyday. 
-Right now I am looking for a job as a Test Engineer/ Test Automation Engineer 👩‍💻
-
-### 
-### 
-### - 🌱 I’m currently learning Cypress
+- 🇳🇱 I live near Tilburg, The Netherlands
+- 👩🏽‍🎓 I have completed the Frontend Developer Bootcamp at Novi Hogeschool
+- ☀️ This summer I studied for ISTQB
+- 📜 I got my ISTQB Certified Tester Foundation Level certificate
+- 📈 I want to develop myself and be better at what I’m doing everyday
+- 👩🏽‍💻 Right now I am looking for a job as a Test Engineer/ Test Automation Engineer
+- 🌱 I am currently learning the Cypress testing framework
 
 <!--
 **tahminahesari/tahminahesari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
