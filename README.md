@@ -4,10 +4,6 @@
 # Welcome to my github 🌸
 
 
-- 🇳🇱 I live near Tilburg, The Netherlands
-- 👩🏽‍🎓 I have completed the Frontend Developer Bootcamp at Novi Hogeschool
-- ☀️ This summer I studied for ISTQB
-- 📜 I got my ISTQB Certified Tester Foundation Level certificate
 - 📈 I want to develop myself and be better at what I’m doing everyday
 - 👩🏽‍💻 Right now I am looking for a job as a Test Engineer/ Test Automation Engineer
 - 🌱 I am currently learning the Cypress testing framework
